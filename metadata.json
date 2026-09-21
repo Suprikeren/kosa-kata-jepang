@@ -1,0 +1,6 @@
+{
+  "name": "Game Belajar Bahasa Jepang",
+  "description": "Game edukasi interaktif untuk belajar bahasa Jepang dari nol: Hiragana, pengenalan karakter, kuis, dan latihan menulis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
